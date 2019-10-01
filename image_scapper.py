@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 30 23:51:11 2019
 
-@author: Manish
+@author: Manish #LIMIT IS 100 IMAGES.
 """
 
 from google_images_download import google_images_download   #importing the library
